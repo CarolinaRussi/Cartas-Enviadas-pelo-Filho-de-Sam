@@ -1,6 +1,6 @@
 # Cartas-Enviadas-pelo-Filho-de-Sam
 
-#Primeira Carta enviada Pelo Filho de Sam
+# Primeira Carta enviada Pelo Filho de Sam
 
 
 Caro Capitão Joseph Borrelli,
@@ -44,7 +44,7 @@ Para o povo do Queens, eu te amo. E quero desejar a todos uma feliz Páscoa. Pod
 Deus te abençoe nesta vida e na próxima.
 
 
-#Segunda Carta Enviada ao Daily News
+# Segunda Carta Enviada ao Daily News
 
 
 "Olá das rachaduras nas calçadas de Nova York e das formigas que moram nessas rachaduras e se alimentam do sangue seco dos mortos que se instalou nas rachaduras.
